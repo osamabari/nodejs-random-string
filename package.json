@@ -1,0 +1,28 @@
+{
+  "name": "nodejs-random-string",
+  "version": "1.0.0",
+  "description": "get random string in nodjes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/osamabari/nodejs-random-string.git"
+  },
+  "keywords": [
+    "random",
+    "string",
+    "get",
+    "random",
+    "string",
+    "string",
+    "random"
+  ],
+  "author": "Osama Bari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/osamabari/nodejs-random-string/issues"
+  },
+  "homepage": "https://github.com/osamabari/nodejs-random-string#readme"
+}
